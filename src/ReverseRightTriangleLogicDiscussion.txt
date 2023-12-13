@@ -1,0 +1,5 @@
+_ _ _ _ * i = 0 -> star at j = 4
+_ _ _ * * i = 1 -> star at j = 3,4
+_ _ * * * i = 2 -> star at j = 2,3,4
+_ * * * * i = 3 -> star at j = 1,2,3,4
+* * * * * i = 4 -> star at j = 0,1,2,3,4
